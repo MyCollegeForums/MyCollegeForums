@@ -8,14 +8,14 @@
     <meta name="discourse_current_homepage" content="categories">
     <meta name="author" content="">
 <meta name="generator" content="Discourse 1.9.0.beta15 - https://github.com/discourse/discourse version 995bf3c84eecc89919cc2efc95537259a3a75b7b">
-<link rel="icon" type="image/png" href="https://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="apple-touch-icon" type="image/png" href="https://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="icon" type="image/png" sizes="144x144" href="https://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" href="../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="apple-touch-icon" type="image/png" href="../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" sizes="144x144" href="../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
 
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://mycollegeforums.com","potentialAction":{"@type":"SearchAction","target":"http://mycollegeforums.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<link rel="search" type="application/opensearchdescription+xml" href="http://mycollegeforums.com/opensearch.xml" title="My College Forums Search">
+<link rel="search" type="application/opensearchdescription+xml" href="../../../../../../opensearch.xml" title="My College Forums Search">
 
     
 
@@ -48,7 +48,7 @@
       
 
     
-    <link rel="manifest" href="https://mycollegeforums.com/manifest.json">
+    <link rel="manifest" href="../../../../../../manifest.json">
 
 
       <link href="../../../../../../stylesheets/desktop_f1a9202c8c4fbf1c9cc154b6651dff1daeb2cc26.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop"/>
@@ -85,12 +85,12 @@
       <div class="contents">
         <div class="row">
           <div class="title span13">
-            <a href="https://mycollegeforums.com/">
+            <a href="../../../../../../index.html">
                 <img src="../../../../../../uploads/default/original/1X/0011dde6e59f585ad039fda0e7b49a8ae4e9f8c0.png" alt="My College Forums" id="site-logo">
             </a>
           </div>
               <div class='panel clearfix'>
-                <a href="../../../../../../stylesheets/“https:/mycollegeforums.com/uploads/default/original/1X/a25adfd3ff5a21cd4f468d242542a28de176fa88.png”" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
+                <a href="../../../../../../faq" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
               </div>
         </div>
       </div>
@@ -104,18 +104,18 @@
       <div id="main-outlet" class="wrap">
         <!-- preload-content: -->
           <div class='login-required'>
-    <h2><a href="../../../../../../stylesheets/“https:/mycollegeforums.com/uploads/default/original/1X/a25adfd3ff5a21cd4f468d242542a28de176fa88.png”#welcome">Welcome to My College Forums</a></h2>
+    <h2><a href="../../../../../../faq#welcome">Welcome to My College Forums</a></h2>
 <p>An account is required. Please create an account or log in to continue.</p>
   </div>
 
         <!-- :preload-content -->
         <footer>
           <nav itemscope itemtype='http://schema.org/SiteNavigationElement'>
-            <a href='https://mycollegeforums.com/'>Home</a>
-            <a href="https://mycollegeforums.com/categories">Categories</a>
-            <a href="https://mycollegeforums.com/guidelines">FAQ/Guidelines</a>
-            <a href="https://mycollegeforums.com/tos">Terms of Service</a>
-            <a href="https://mycollegeforums.com/privacy">Privacy Policy</a>
+            <a href='../../../../../../index.html'>Home</a>
+            <a href="../../../../../../categories">Categories</a>
+            <a href="../../../../../../guidelines">FAQ/Guidelines</a>
+            <a href="../../../../../../tos">Terms of Service</a>
+            <a href="../../../../../../privacy">Privacy Policy</a>
           </nav>
         </footer>
       </div>
@@ -134,7 +134,7 @@
     <div id='offscreen-content'>
     </div>
 
-      <form id='hidden-login-form' method="post" action="../../../../../../stylesheets/“https:/mycollegeforums.com/uploads/default/original/1X/a25adfd3ff5a21cd4f468d242542a28de176fa88.png”" style="display: none;">
+      <form id='hidden-login-form' method="post" action="../../../../../../faq" style="display: none;">
         <input name="username" type="text"     id="signin_username">
         <input name="password" type="password" id="signin_password">
         <input name="redirect" type="hidden">

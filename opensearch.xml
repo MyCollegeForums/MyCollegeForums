@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>My College Forums Search</ShortName>
+  <Description>Search for posts on My College Forums</Description>
+  <Tags>discourse forum</Tags>
+  <Image type="image/png">http://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://mycollegeforums.com/opensearch.xml"/>
+  <Url type="text/html" template="http://mycollegeforums.com/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

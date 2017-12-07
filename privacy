@@ -2,20 +2,20 @@
 <html lang="en" class="desktop-view not-mobile-device  anon">
   <head>
     <meta charset="utf-8">
-    <title>My College Forums</title>
+    <title>Privacy Policy - My College Forums</title>
     <meta name="description" content="Social network for your college. We want all the MSRIT students to get access to notes, Books, Trainings and Internships. All we want is to make everyone ready for the real Technical Jobs.">
     <meta name="discourse_theme_key" content="a2c6dd03-3cba-47cf-a690-a2919c1f38be">
     <meta name="discourse_current_homepage" content="categories">
     <meta name="author" content="">
 <meta name="generator" content="Discourse 1.9.0.beta15 - https://github.com/discourse/discourse version 995bf3c84eecc89919cc2efc95537259a3a75b7b">
-<link rel="icon" type="image/png" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="apple-touch-icon" type="image/png" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="icon" type="image/png" sizes="144x144" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" href="uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="apple-touch-icon" type="image/png" href="uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" sizes="144x144" href="uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
 
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://mycollegeforums.com","potentialAction":{"@type":"SearchAction","target":"http://mycollegeforums.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<link rel="search" type="application/opensearchdescription+xml" href="../../../../../../../opensearch.xml" title="My College Forums Search">
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="My College Forums Search">
 
     
 
@@ -27,48 +27,58 @@
       window.EmberENV['FORCE_JQUERY'] = true;
     </script>
 
-    <link rel='preload' href='../../../../../../../assets/locales/en-69be107476ece83ae4c2ded9ebb69ff62a68372573adea9557e4b28c3047ddde.js' as='script'/>
-<script src='../../../../../../../assets/locales/en-69be107476ece83ae4c2ded9ebb69ff62a68372573adea9557e4b28c3047ddde.js'></script>
-    <link rel='preload' href='../../../../../../../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js' as='script'/>
-<script src='../../../../../../../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js'></script>
-    <link rel='preload' href='../../../../../../../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js' as='script'/>
-<script src='../../../../../../../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js'></script>
-    <link rel='preload' href='../../../../../../../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js' as='script'/>
-<script src='../../../../../../../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js'></script>
-    <link rel='preload' href='../../../../../../../assets/pretty-text-bundle-348180149649d49cd3725ba299b3ac052b3dda359c60acedbf27dd17ef358a13.js' as='script'/>
-<script src='../../../../../../../assets/pretty-text-bundle-348180149649d49cd3725ba299b3ac052b3dda359c60acedbf27dd17ef358a13.js'></script>
-    <link rel='preload' href='../../../../../../../assets/application-b9ab68a7c575d9c2dcac357a36832c045b57560a9472766cde49b6bac4786ff9.js' as='script'/>
-<script src='../../../../../../../assets/application-b9ab68a7c575d9c2dcac357a36832c045b57560a9472766cde49b6bac4786ff9.js'></script>
-    <link rel='preload' href='../../../../../../../assets/plugin-2308884659fce80698443cd43fed0d1c830214593f872a907cecb616596d17b0.js' as='script'/>
-<script src='../../../../../../../assets/plugin-2308884659fce80698443cd43fed0d1c830214593f872a907cecb616596d17b0.js'></script>
-    <link rel='preload' href='../../../../../../../assets/plugin-third-party-5dddf3986b999b03ffba3bf360f85949dedbc04951d18089e389f506ab748ac3.js' as='script'/>
-<script src='../../../../../../../assets/plugin-third-party-5dddf3986b999b03ffba3bf360f85949dedbc04951d18089e389f506ab748ac3.js'></script>
+    <link rel='preload' href='assets/locales/en-69be107476ece83ae4c2ded9ebb69ff62a68372573adea9557e4b28c3047ddde.js' as='script'/>
+<script src='assets/locales/en-69be107476ece83ae4c2ded9ebb69ff62a68372573adea9557e4b28c3047ddde.js'></script>
+    <link rel='preload' href='assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js' as='script'/>
+<script src='assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js'></script>
+    <link rel='preload' href='assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js' as='script'/>
+<script src='assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js'></script>
+    <link rel='preload' href='assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js' as='script'/>
+<script src='assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js'></script>
+    <link rel='preload' href='assets/pretty-text-bundle-348180149649d49cd3725ba299b3ac052b3dda359c60acedbf27dd17ef358a13.js' as='script'/>
+<script src='assets/pretty-text-bundle-348180149649d49cd3725ba299b3ac052b3dda359c60acedbf27dd17ef358a13.js'></script>
+    <link rel='preload' href='assets/application-b9ab68a7c575d9c2dcac357a36832c045b57560a9472766cde49b6bac4786ff9.js' as='script'/>
+<script src='assets/application-b9ab68a7c575d9c2dcac357a36832c045b57560a9472766cde49b6bac4786ff9.js'></script>
+    <link rel='preload' href='assets/plugin-2308884659fce80698443cd43fed0d1c830214593f872a907cecb616596d17b0.js' as='script'/>
+<script src='assets/plugin-2308884659fce80698443cd43fed0d1c830214593f872a907cecb616596d17b0.js'></script>
+    <link rel='preload' href='assets/plugin-third-party-5dddf3986b999b03ffba3bf360f85949dedbc04951d18089e389f506ab748ac3.js' as='script'/>
+<script src='assets/plugin-third-party-5dddf3986b999b03ffba3bf360f85949dedbc04951d18089e389f506ab748ac3.js'></script>
 
 
       
 
     
-    <link rel="manifest" href="../../../../../../../manifest.json">
+    <link rel="manifest" href="manifest.json">
 
 
-      <link href="../../../../../../desktop_f1a9202c8c4fbf1c9cc154b6651dff1daeb2cc26.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop"/>
+      <link href="stylesheets/desktop_f1a9202c8c4fbf1c9cc154b6651dff1daeb2cc26.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop"/>
 
 
-  <link href="../../../../../../desktop_theme_19_a56c9d2e52759f7edf0173cde97183a38490d8c6.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop_theme"/>
+  <link href="stylesheets/desktop_theme_19_a56c9d2e52759f7edf0173cde97183a38490d8c6.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop_theme"/>
 
     
 
-<link rel="preload" href="../../../../../../../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&amp;2&amp;v=4.7.0" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&amp;2&amp;v=4.7.0" as="font" type="font/woff2" crossorigin />
 <style>
   @font-face {
     font-family: 'FontAwesome';
-    src: url('../../../../../../../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&2&v=4.7.0') format('woff2'),
-         url('../../../../../../../assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff?https:%252F%252Fmycollegeforums.com&amp%3B2&v=4.7.0') format('woff');
+    src: url('assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&2&v=4.7.0') format('woff2'),
+         url('assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff?https:%252F%252Fmycollegeforums.com&amp%3B2&v=4.7.0') format('woff');
   }
 </style>
 
 
-    
+        <meta property="og:site_name" content="My College Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="http://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg" />
+<meta property="og:image" content="http://mycollegeforums.com/uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg" />
+<meta property="og:url" content="http://mycollegeforums.com/privacy" />
+<meta name="twitter:url" content="http://mycollegeforums.com/privacy" />
+<meta property="og:title" content="Privacy Policy - My College Forums" />
+<meta name="twitter:title" content="Privacy Policy - My College Forums" />
+<meta property="og:description" content="Social network for your college. We want all the MSRIT students to get access to notes, Books, Trainings and Internships. All we want is to make everyone ready for the real Technical Jobs." />
+<meta name="twitter:description" content="Social network for your college. We want all the MSRIT students to get access to notes, Books, Trainings and Internships. All we want is to make everyone ready for the real Technical Jobs." />
+
 
     
   </head>
@@ -78,19 +88,19 @@
 
     <div class='debug-eyeline'></div>
 
-    <noscript data-path="/login">
+    <noscript data-path="/privacy">
       
   <header class="d-header">
     <div class="wrap">
       <div class="contents">
         <div class="row">
           <div class="title span13">
-            <a href="../../../../../../../index.html">
-                <img src="../../../../../../../uploads/default/original/1X/0011dde6e59f585ad039fda0e7b49a8ae4e9f8c0.png" alt="My College Forums" id="site-logo">
+            <a href="index.html">
+                <img src="uploads/default/original/1X/0011dde6e59f585ad039fda0e7b49a8ae4e9f8c0.png" alt="My College Forums" id="site-logo">
             </a>
           </div>
               <div class='panel clearfix'>
-                <a href="../../../../../../../faq" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
+                <a href="faq" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
               </div>
         </div>
       </div>
@@ -103,19 +113,75 @@
 
       <div id="main-outlet" class="wrap">
         <!-- preload-content: -->
-          <div class='login-required'>
-    <h2><a href="../../../../../../../faq#welcome">Welcome to My College Forums</a></h2>
-<p>An account is required. Please create an account or log in to continue.</p>
+        <div itemscope itemtype='http://schema.org/WebPage'>
+  <meta itemprop='lastReviewed' content='2017-11-19'>
+  <ul class='nav-pills' role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+    <li class='nav-item-tos'><a href='tos' class=''>Terms of Service</a></li>
+    <li class='nav-item-privacy'><a href='privacy' class='active'>Privacy</a></li>
+  </ul>
+
+
+  <div itemprop='mainContentOfPage'>
+    <p><a name="collect"></a></p>
+<h2><a href="privacy#collect">What information do we collect?</a></h2>
+<p>We collect information from you when you register on our site and gather data when you participate in the forum by reading, writing, and evaluating the content shared here.</p>
+<p>When registering on our site, you may be asked to enter your name and e-mail address. You may, however, visit our site without registering. Your e-mail address will be verified by an email containing a unique link. If that link is visited, we know that you control the e-mail address.</p>
+<p>When registered and posting, we record the IP address that the post originated from. We also may retain server logs which include the IP address of every request to our server.</p>
+<p><a name="use"></a></p>
+<h2><a href="privacy#use">What do we use your information for?</a></h2>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<ul>
+<li>To personalize your experience — your information helps us to better respond to your individual needs.</li>
+<li>To improve our site — we continually strive to improve our site offerings based on the information and feedback we receive from you.</li>
+<li>To improve customer service — your information helps us to more effectively respond to your customer service requests and support needs.</li>
+<li>To send periodic emails — The email address you provide may be used to send you information, notifications that you request about changes to topics or in response to your user name, respond to inquiries, and/or other requests or questions.</li>
+</ul>
+<p><a name="protect"></a></p>
+<h2><a href="privacy#protect">How do we protect your information?</a></h2>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+<p><a name="data-retention"></a></p>
+<h2><a href="privacy#data-retention">What is your data retention policy?</a></h2>
+<p>We will make a good faith effort to:</p>
+<ul>
+<li>Retain server logs containing the IP address of all requests to this server no more than 90 days.</li>
+<li>Retain the IP addresses associated with registered users and their posts no more than 5 years.</li>
+</ul>
+<p><a name="cookies"></a></p>
+<h2><a href="privacy#cookies">Do we use cookies?</a></h2>
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.</p>
+<p>We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
+<p><a name="disclose"></a></p>
+<h2><a href="privacy#disclose">Do we disclose any information to outside parties?</a></h2>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><a name="third-party"></a></p>
+<h2><a href="privacy#third-party">Third party links</a></h2>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><a name="coppa"></a></p>
+<h2><a href="privacy#coppa">Children’s Online Privacy Protection Act Compliance</a></h2>
+<p>Our site, products and services are all directed to people who are at least 13 years old or older. If this server is in the USA, and you are under the age of 13, per the requirements of COPPA (<a href="https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act">Children’s Online Privacy Protection Act</a>), do not use this site.</p>
+<p><a name="online"></a></p>
+<h2><a href="privacy#online">Online Privacy Policy Only</a></h2>
+<p>This online privacy policy applies only to information collected through our site and not to information collected offline.</p>
+<p><a name="consent"></a></p>
+<h2><a href="privacy#consent">Your Consent</a></h2>
+<p>By using our site, you consent to our web site privacy policy.</p>
+<p><a name="changes"></a></p>
+<h2><a href="privacy#changes">Changes to our Privacy Policy</a></h2>
+<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+<p>This document is CC-BY-SA. It was last updated November 24, 2017</p>
   </div>
+</div>
+
+  
 
         <!-- :preload-content -->
         <footer>
           <nav itemscope itemtype='http://schema.org/SiteNavigationElement'>
-            <a href='../../../../../../../index.html'>Home</a>
-            <a href="../../../../../../../categories">Categories</a>
-            <a href="../../../../../../../guidelines">FAQ/Guidelines</a>
-            <a href="../../../../../../../tos">Terms of Service</a>
-            <a href="../../../../../../../privacy">Privacy Policy</a>
+            <a href='index.html'>Home</a>
+            <a href="categories">Categories</a>
+            <a href="guidelines">FAQ/Guidelines</a>
+            <a href="tos">Terms of Service</a>
+            <a href="privacy">Privacy Policy</a>
           </nav>
         </footer>
       </div>
@@ -134,7 +200,7 @@
     <div id='offscreen-content'>
     </div>
 
-      <form id='hidden-login-form' method="post" action="../../../../../../../faq" style="display: none;">
+      <form id='hidden-login-form' method="post" action="faq" style="display: none;">
         <input name="username" type="text"     id="signin_username">
         <input name="password" type="password" id="signin_password">
         <input name="redirect" type="hidden">
@@ -184,8 +250,8 @@
   })();
 </script>
 
-<link rel='preload' href='../../../../../../../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js' as='script'/>
-<script src='../../../../../../../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js'></script>
+<link rel='preload' href='assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js' as='script'/>
+<script src='assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js'></script>
 
 
       
