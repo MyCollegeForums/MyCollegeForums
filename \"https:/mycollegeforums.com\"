@@ -8,14 +8,14 @@
     <meta name="discourse_current_homepage" content="categories">
     <meta name="author" content="">
 <meta name="generator" content="Discourse 1.9.0.beta16 - https://github.com/discourse/discourse version dee498a2813c466e0b162f155294d70ceacc9acd">
-<link rel="icon" type="image/png" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="apple-touch-icon" type="image/png" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
-<link rel="icon" type="image/png" sizes="144x144" href="../../../../../../../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" href="../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="apple-touch-icon" type="image/png" href="../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
+<link rel="icon" type="image/png" sizes="144x144" href="../uploads/default/original/1X/0ec46db663790e8fad493db4ad53139a9a998b8a.jpg">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
 
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://mycollegeforums.com","potentialAction":{"@type":"SearchAction","target":"http://mycollegeforums.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<link rel="search" type="application/opensearchdescription+xml" href="../../../../../../../opensearch.xml" title="My College Forums Search">
+<link rel="search" type="application/opensearchdescription+xml" href="../opensearch.xml" title="My College Forums Search">
 
     
 
@@ -27,43 +27,43 @@
       window.EmberENV['FORCE_JQUERY'] = true;
     </script>
 
-    <link rel='preload' href='../../../../../../../assets/locales/en-29a3a85bfe174c5e4d84be3a57a8d5b99f03e159f49fb2d167296f92b55d2f49.js' as='script'/>
-<script src='../../../../../../../assets/locales/en-29a3a85bfe174c5e4d84be3a57a8d5b99f03e159f49fb2d167296f92b55d2f49.js'></script>
-    <link rel='preload' href='../../../../../../../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js' as='script'/>
-<script src='../../../../../../../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js'></script>
-    <link rel='preload' href='../../../../../../../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js' as='script'/>
-<script src='../../../../../../../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js'></script>
-    <link rel='preload' href='../../../../../../../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js' as='script'/>
-<script src='../../../../../../../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js'></script>
-    <link rel='preload' href='../../../../../../../assets/pretty-text-bundle-66167a80d20c1855ebf22f9a99a6bb4fb7d8b99862f2961af2a8ab039306f4d5.js' as='script'/>
-<script src='../../../../../../../assets/pretty-text-bundle-66167a80d20c1855ebf22f9a99a6bb4fb7d8b99862f2961af2a8ab039306f4d5.js'></script>
-    <link rel='preload' href='../../../../../../../assets/application-acefb69bf3db165c68f181c54964fb63e2d3d928f104b7db4f6f988280a465e1.js' as='script'/>
-<script src='../../../../../../../assets/application-acefb69bf3db165c68f181c54964fb63e2d3d928f104b7db4f6f988280a465e1.js'></script>
-    <link rel='preload' href='../../../../../../../assets/plugin-3ddff210ad88e49511cfbd432714b892e4ff509ec575cb7389b52a5188439f09.js' as='script'/>
-<script src='../../../../../../../assets/plugin-3ddff210ad88e49511cfbd432714b892e4ff509ec575cb7389b52a5188439f09.js'></script>
-    <link rel='preload' href='../../../../../../../assets/plugin-third-party-09d03d54fd67b6e3cc3bf776d8fd201c1e8a1617bc697f57855d0f537636c46d.js' as='script'/>
-<script src='../../../../../../../assets/plugin-third-party-09d03d54fd67b6e3cc3bf776d8fd201c1e8a1617bc697f57855d0f537636c46d.js'></script>
+    <link rel='preload' href='../assets/locales/en-29a3a85bfe174c5e4d84be3a57a8d5b99f03e159f49fb2d167296f92b55d2f49.js' as='script'/>
+<script src='../assets/locales/en-29a3a85bfe174c5e4d84be3a57a8d5b99f03e159f49fb2d167296f92b55d2f49.js'></script>
+    <link rel='preload' href='../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js' as='script'/>
+<script src='../assets/ember_jquery-a8dcbd325e04410f036f2a791d66d8316c48c5387acdd914de99a5dd6afb3cd3.js'></script>
+    <link rel='preload' href='../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js' as='script'/>
+<script src='../assets/preload-store-ec90ffab9d7a6d9e507dda7cf7343e9d50b8bce624f7f44486ac8fd6b9814309.js'></script>
+    <link rel='preload' href='../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js' as='script'/>
+<script src='../assets/vendor-057c8aaf728aa3bc264d5ff93a70e003efe4f4ecdc16ba0a02d452e6e3ef4402.js'></script>
+    <link rel='preload' href='../assets/pretty-text-bundle-66167a80d20c1855ebf22f9a99a6bb4fb7d8b99862f2961af2a8ab039306f4d5.js' as='script'/>
+<script src='../assets/pretty-text-bundle-66167a80d20c1855ebf22f9a99a6bb4fb7d8b99862f2961af2a8ab039306f4d5.js'></script>
+    <link rel='preload' href='../assets/application-acefb69bf3db165c68f181c54964fb63e2d3d928f104b7db4f6f988280a465e1.js' as='script'/>
+<script src='../assets/application-acefb69bf3db165c68f181c54964fb63e2d3d928f104b7db4f6f988280a465e1.js'></script>
+    <link rel='preload' href='../assets/plugin-3ddff210ad88e49511cfbd432714b892e4ff509ec575cb7389b52a5188439f09.js' as='script'/>
+<script src='../assets/plugin-3ddff210ad88e49511cfbd432714b892e4ff509ec575cb7389b52a5188439f09.js'></script>
+    <link rel='preload' href='../assets/plugin-third-party-09d03d54fd67b6e3cc3bf776d8fd201c1e8a1617bc697f57855d0f537636c46d.js' as='script'/>
+<script src='../assets/plugin-third-party-09d03d54fd67b6e3cc3bf776d8fd201c1e8a1617bc697f57855d0f537636c46d.js'></script>
 
 
       
 
     
-    <link rel="manifest" href="../../../../../../../manifest.json">
+    <link rel="manifest" href="../manifest.json">
 
 
-      <link href="../../../../../../desktop_68159a4cfab874494fa3796886546bcf1e14214b.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop"/>
+      <link href="../stylesheets/desktop_68159a4cfab874494fa3796886546bcf1e14214b.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop"/>
 
 
-  <link href="../../../../../../desktop_theme_19_3539c75c5f05c13a4cbfef464f2585edd0d1a7d5.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop_theme"/>
+  <link href="../stylesheets/desktop_theme_19_3539c75c5f05c13a4cbfef464f2585edd0d1a7d5.css?__ws=mycollegeforums.com" media="all" rel="stylesheet" data-target="desktop_theme"/>
 
     
 
-<link rel="preload" href="../../../../../../../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&amp;2&amp;v=4.7.0" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&amp;2&amp;v=4.7.0" as="font" type="font/woff2" crossorigin />
 <style>
   @font-face {
     font-family: 'FontAwesome';
-    src: url('../../../../../../../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&2&v=4.7.0') format('woff2'),
-         url('../../../../../../../assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff?https:%252F%252Fmycollegeforums.com&amp%3B2&v=4.7.0') format('woff');
+    src: url('../assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?https:%252F%252Fmycollegeforums.com&2&v=4.7.0') format('woff2'),
+         url('../assets/fontawesome-webfont-ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07.woff?https:%252F%252Fmycollegeforums.com&amp%3B2&v=4.7.0') format('woff');
   }
 </style>
 
@@ -85,12 +85,12 @@
       <div class="contents">
         <div class="row">
           <div class="title span13">
-            <a href="../../../../../../../index.html">
-                <img src="../../../../../../../uploads/default/original/1X/0011dde6e59f585ad039fda0e7b49a8ae4e9f8c0.png" alt="My College Forums" id="site-logo">
+            <a href="../index.html">
+                <img src="../uploads/default/original/1X/0011dde6e59f585ad039fda0e7b49a8ae4e9f8c0.png" alt="My College Forums" id="site-logo">
             </a>
           </div>
               <div class='panel clearfix'>
-                <a href="../../../../../../../faq" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
+                <a href="../faq" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
               </div>
         </div>
       </div>
@@ -100,18 +100,18 @@
       <div id="main-outlet" class="wrap">
         <!-- preload-content: -->
           <div class='login-required'>
-    <h2><a href="../../../../../../../faq#welcome">Welcome to My College Forums</a></h2>
+    <h2><a href="../faq#welcome">Welcome to My College Forums</a></h2>
 <p>An account is required. Please create an account or log in to continue.</p>
   </div>
 
         <!-- :preload-content -->
         <footer>
           <nav itemscope itemtype='http://schema.org/SiteNavigationElement'>
-            <a href='../../../../../../../index.html'>Home</a>
-            <a href="../../../../../../../categories">Categories</a>
-            <a href="../../../../../../../guidelines">FAQ/Guidelines</a>
-            <a href="../../../../../../../tos">Terms of Service</a>
-            <a href="../../../../../../../privacy">Privacy Policy</a>
+            <a href='../index.html'>Home</a>
+            <a href="../categories">Categories</a>
+            <a href="../guidelines">FAQ/Guidelines</a>
+            <a href="../tos">Terms of Service</a>
+            <a href="../privacy">Privacy Policy</a>
           </nav>
         </footer>
       </div>
@@ -130,7 +130,7 @@
     <div id='offscreen-content'>
     </div>
 
-      <form id='hidden-login-form' method="post" action="../../../../../../../faq" style="display: none;">
+      <form id='hidden-login-form' method="post" action="../faq" style="display: none;">
         <input name="username" type="text"     id="signin_username">
         <input name="password" type="password" id="signin_password">
         <input name="redirect" type="hidden">
@@ -180,8 +180,8 @@
   })();
 </script>
 
-<link rel='preload' href='../../../../../../../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js' as='script'/>
-<script src='../../../../../../../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js'></script>
+<link rel='preload' href='../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js' as='script'/>
+<script src='../assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js'></script>
 
 
       
